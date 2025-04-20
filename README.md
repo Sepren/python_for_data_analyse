@@ -1,1 +1,1 @@
-# python_for_data_analyse
+Домашние задания по курсу Python для анализа данных
